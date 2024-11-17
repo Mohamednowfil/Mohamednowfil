@@ -7,7 +7,7 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 ## 🌟 About Me
 - 💻 I'm skilled in developing web applications using the **MERN Stack**.
 - 🚀 I enjoy learning about data visualization and analysis using tools like **Power BI** and **Excel**.
-- 🌱 Currently exploring **DevOps** practices to enhance project scalability and deployment.
+- 🌱 Currently exploring **MERN Stack advancements**, **Data Analytics techniques**, and the integration of **AI** in web applications.
 - 🎯 Open to collaborating on innovative web development projects!
 
 ---
@@ -46,9 +46,9 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamednowfil/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Mohamednowfil23)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/nowfil6631)
 
 ---
 
