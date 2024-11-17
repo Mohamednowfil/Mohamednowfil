@@ -38,7 +38,7 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 ## 📊 GitHub Statistics
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800&random=${Math.random()})
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical)
 
@@ -54,8 +54,3 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 ---
 
 ### ✨ Let's build something amazing together!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800&random=${Math.random()})
-
-![GitHub Stars](https://img.shields.io/github/stars/Mohamednowfil?style=social)
-
