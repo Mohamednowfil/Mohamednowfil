@@ -1,4 +1,4 @@
-#👨🏻‍💻Hi there! 👋 I'm Mohamed Nowfil
+# Hi there! 👋 I'm Mohamed Nowfil
 
 I am a passionate **MERN Stack Developer** focused on building efficient, scalable, and user-friendly web applications. I enjoy crafting full-stack projects, learning cutting-edge technologies, and collaborating on exciting development challenges.
 
