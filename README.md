@@ -52,6 +52,11 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohamednowfil)](https://github.com/Mohamednowfil)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800&random=${Math.random()})
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
+
+
 
 ---
 
