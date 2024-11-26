@@ -73,4 +73,7 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 - I actively work with **Jupyter Notebooks** to create data-driven projects and experiments.
 - You can find some of my **Jupyter Notebooks** repositories [here](https://github.com/Mohamednowfil).
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical)
+![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-DA5B38?style=flat&logo=jupyter&logoColor=white)
+
 
