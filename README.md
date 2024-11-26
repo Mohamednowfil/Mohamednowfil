@@ -46,6 +46,9 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamednowfil&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical)
 
 
 ---
