@@ -48,13 +48,11 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mohamednowfil&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&langs_count=6)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamednowfil)](https://github.com/Mohamednowfil)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamednowfil)](https://github.com/Mohamednowfil&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800&random=${Math.random()})
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 
 
