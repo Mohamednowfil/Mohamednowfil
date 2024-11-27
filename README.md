@@ -63,9 +63,7 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 ### ✨ Let's build something amazing together!
 
-[![](https://visitcount.itsvg.in/api?id=Mohamednowfil&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+'![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical)
 
