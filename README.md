@@ -64,5 +64,10 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 ### ✨ Let's build something amazing together!
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Mohamednowfil&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamednowfil&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Commits Badge](https://img.shields.io/badge/Total%20Commits-XXK-brightgreen?style=flat&logo=github)
+
+
 '![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical)
 
