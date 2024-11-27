@@ -62,12 +62,3 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 ---
 
 ### ✨ Let's build something amazing together!
-
-# GitHub Stats
-
-### Top Languages (Excluding `.ipynb`)
-- HTML: 31,463
-- Python: 25,499
-- CSS: 21,634
-- JavaScript: 18,937
-
