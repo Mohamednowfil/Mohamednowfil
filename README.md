@@ -63,6 +63,4 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 ### ✨ Let's build something amazing together!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical&langs_count=10&hide_progress=false&cache_seconds=1800)
