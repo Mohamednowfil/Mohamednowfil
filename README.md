@@ -63,5 +63,43 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 ### ✨ Let's build something amazing together!
 
-![Rank and Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github)
+# Mohamed Nowfil's GitHub Profile
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github)
+
+### Global Rank
+🌍 Based on GitHub activity, I am ranked among the **Top X%** of developers globally.
+
+![Metrics](https://metrics.lecoq.io/Mohamednowfil?template=classic&base.indepth=false&config.timezone=Asia%2FCalcutta)
+
+### Top Technologies
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamednowfil&theme=radical)
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
+
+
+![Visitors Badge](https://komarev.com/ghpvc/?username=Mohamednowfil&color=blue)
+
+### 🌍 Global Contribution Rankings
+
+![GitHub Rank Metrics](https://github-profile-ranking.vercel.app/api/rank?username=Mohamednowfil)
+
+
+# Mohamed Nowfil's GitHub Profile
+
+### 🌟 GitHub Stats and Rank
+![Mohamednowfil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github)
+
+### 🌍 Global Rank and Activity
+![Metrics](https://metrics.lecoq.io/Mohamednowfil?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FCalcutta)
+
+### 👀 Visitors Badge
+![Visitors Badge](https://komarev.com/ghpvc/?username=Mohamednowfil&color=blue)
+
+---
+*Generated with ❤️ for GitHub Profile Insights.*
