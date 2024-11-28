@@ -40,7 +40,7 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednowfil&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Mohamednowfil&theme=radical)
 
