@@ -64,8 +64,4 @@ I am a passionate **MERN Stack Developer** focused on building efficient, scalab
 ### ✨ Let's build something amazing together!
 
 # GitHub Stats
-
-### Top Languages (Including `.ipynb` files)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical&include_private=true&cache_seconds=1800)
-
+![Top Languages](https://<your-vercel-deployment-url>/api/top-langs/?username=Mohamednowfil&layout=compact&theme=radical&include_private=true)
